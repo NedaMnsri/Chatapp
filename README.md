@@ -6,7 +6,7 @@
 
 - Created - 2024-1-23
 
-- Technologies Used - Html , css
+- Technologies Used - Html, css, Bootstrap 
 
 - Role - Frontend
 
